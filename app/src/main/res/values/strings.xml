@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListApp</string>
+
+    <string-array name="items">
+        <item>Pasta</item>
+        <item>Milk</item>
+        <item>Bread</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$3.19</item>
+        <item>$2.29</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Whole grain pasta imported from Italy</item>
+        <item>Vanilla soy milk from California</item>
+        <item>Wheat bread from Florida bakery</item>
+    </string-array>
+</resources>
